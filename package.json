@@ -1,0 +1,10 @@
+{
+  "name": "node-starter",
+  "version": "1.0.0",
+  "description": "My starter for Node.js projects",
+  "author": "Martín M.",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+  }
+}
