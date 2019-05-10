@@ -5,7 +5,9 @@
   "author": "Martín M.",
   "license": "MIT",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node ./index.js"
+  },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
     "eslint": "^5.16.0",
